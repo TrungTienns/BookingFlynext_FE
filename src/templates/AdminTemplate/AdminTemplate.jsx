@@ -27,7 +27,7 @@ const arrMenu = [
           <img
             src="/img/logo-FlyNext.png"
             alt="home"
-            className="animate__animated animate__fadeInLeft w-full h-full"
+            className="animate__animated animat`e`__fadeInLeft w-full h-full"
           />
         ),
       },
