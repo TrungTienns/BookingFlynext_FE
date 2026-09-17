@@ -19,6 +19,7 @@ import ChatSupport from '../pages/AdminPage/ChatSupport/ChatSupport';
 import TicketDashboard from '../pages/AdminPage/TicketDashboard/TicketDashboard';
 import UserList from '../pages/AdminPage/UserList/UserList';
 import PageTemplate from '../templates/PagesTemplate/PageTemplate';
+import BlogPage from '../pages/BlogPage/BlogPage';
 
 const useRouteCustom = () => {
   const route = useRoutes([
@@ -103,6 +104,10 @@ const useRouteCustom = () => {
     {
       path: path.pages,
       element: <PageTemplate />
+    },
+    {
+      path: path.blog,
+      element: <BlogPage />
     }
   ]);
  

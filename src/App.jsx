@@ -4,7 +4,7 @@ import { createContext } from 'react';
 import './App.scss';
 import useRouteCustom from './routes/useRouteCustom';
 import AOSProvider from './utils/AOSProvider.jsx';
-import BackToTop from './components/BackToTop/BackToTop.jsx';
+import BackToTop from './Components/BackToTop/BackToTop.jsx';
 
 export const AlertContext = createContext();
 

@@ -16,5 +16,6 @@ export const path = {
   bookTicket: '/book-ticket',
   profile: '/profile',
   test: '/test',
-  pages: '/pages'
+  pages: '/pages',
+  blog: '/blog'
 };
