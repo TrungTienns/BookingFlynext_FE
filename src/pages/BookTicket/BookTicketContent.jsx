@@ -1,8 +1,8 @@
 import moment from 'moment';
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import NotFoundFlightDepature from '../../components/Animation/NotFoundFlightDepature';
-import NotFoundFlightDestination from '../../components/Animation/NotFoundFlightDestination';
+import NotFoundFlightDepature from '../../Components/Animation/NotFoundFlightDepature';
+import NotFoundFlightDestination from '../../Components/Animation/NotFoundFlightDestination';
 import { setStep } from '../../redux/Slice/ticketSlice';
 import BookTicketSideBar from './BookTicketSideBar';
 import BookTicketForm from './BookTicketForm';

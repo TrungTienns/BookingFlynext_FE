@@ -7,7 +7,7 @@ import {
   handleTurnOffLoading,
   handleTurnOnLoading,
 } from '../../redux/Slice/loadingSlice';
-import LoadingAnimation from '../../components/Animation/LoadingAnimation';
+import LoadingAnimation from '../../Components/Animation/LoadingAnimation';
 
 const SignUpPage = () => {
   const isLoading = useSelector((state) => state.loadingSlice.isLoading);

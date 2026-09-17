@@ -4,7 +4,7 @@ import moment from 'moment';
 import React, { useContext, useEffect, useState } from 'react';
 import * as Yup from 'yup';
 import { AlertContext } from '../../../App';
-import InputText from '../../../components/Input/InputText/InputText';
+import InputText from '../../../Components/Input/InputText/InputText';
 import { airportServ } from '../../../services/airportServ';
 import { flightServ } from '../../../services/flightServ';
 import './AddFlight.scss';

@@ -3,7 +3,7 @@ import Header from '../../Layout/Header/Header';
 import Footer from '../../Layout/Footer/Footer';
 import Login from '../../Layout/Login/Login';
 import { useDispatch, useSelector } from 'react-redux';
-import LoadingAnimation from '../../components/Animation/LoadingAnimation';
+import LoadingAnimation from '../../Components/Animation/LoadingAnimation';
 import {
   handleTurnOffLoading,
   handleTurnOnLoading,

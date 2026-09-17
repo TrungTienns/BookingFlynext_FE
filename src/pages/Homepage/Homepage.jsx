@@ -5,7 +5,7 @@ import Benefits from '../../Layout/Benefits/Benefits';
 import Feedback from '../../Layout/Feedback/Feedback';
 import Partner from '../../Layout/Partner/Partner';
 import Blog from '../../Layout/Blog/Blog';
-import Chatbox from '../../components/ChatBox/ChatBox';
+import Chatbox from '../../Components/ChatBox/ChatBox';
 
 const Homepage = () => {
   return (

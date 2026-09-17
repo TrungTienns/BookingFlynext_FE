@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom';
 import * as Yup from 'yup';
 import { AlertContext } from '../../App';
 import { path } from '../../common/path';
-import InputText from '../../components/Input/InputText/InputText';
+import InputText from '../../Components/Input/InputText/InputText';
 import { authServ } from '../../services/authServ';
 import './SignUp.scss';
 
