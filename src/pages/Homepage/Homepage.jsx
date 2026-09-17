@@ -1,10 +1,10 @@
 import React from 'react';
-import Banner from '../../layout/Banner/Banner';
-import Ticket from '../../layout/Ticket/Ticket';
-import Benefits from '../../layout/Benefits/Benefits';
-import Feedback from '../../layout/Feedback/Feedback';
-import Partner from '../../layout/Partner/Partner';
-import Blog from '../../layout/Blog/Blog';
+import Banner from '../../Layout/Banner/Banner';
+import Ticket from '../../Layout/Ticket/Ticket';
+import Benefits from '../../Layout/Benefits/Benefits';
+import Feedback from '../../Layout/Feedback/Feedback';
+import Partner from '../../Layout/Partner/Partner';
+import Blog from '../../Layout/Blog/Blog';
 import Chatbox from '../../components/ChatBox/ChatBox';
 
 const Homepage = () => {

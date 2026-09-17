@@ -1,7 +1,7 @@
 import React from 'react'
-import Footer from '../../layout/Footer/Footer'
-import Header from '../../layout/Header/Header';
-import Blog from '../../layout/Blog/Blog'
+import Footer from '../../Layout/Footer/Footer'
+import Header from '../../Layout/Header/Header';
+import Blog from '../../Layout/Blog/Blog'
 const BlogPage = () => {
   return (
     <div>

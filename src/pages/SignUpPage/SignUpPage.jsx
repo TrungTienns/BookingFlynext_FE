@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
-import SignUp from '../../layout/SignUp/SignUp';
-import Footer from '../../layout/Footer/Footer';
-import Header from '../../layout/Header/Header';
+import SignUp from '../../Layout/SignUp/SignUp';
+import Footer from '../../Layout/Footer/Footer';
+import Header from '../../Layout/Header/Header';
 import { useDispatch, useSelector } from 'react-redux';
 import {
   handleTurnOffLoading,

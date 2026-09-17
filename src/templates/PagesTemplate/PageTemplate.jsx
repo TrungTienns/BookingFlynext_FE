@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from '../../layout/Header/Header'
-import Footer from '../../layout/Footer/Footer'
+import Header from '../../Layout/Header/Header'
+import Footer from '../../Layout/Footer/Footer'
 import AboutPage from '../../pages/AbouPage/AboutPage'
 
 const PageTemplate = () => {
