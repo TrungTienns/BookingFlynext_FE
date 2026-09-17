@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
-import Header from '../../layout/Header/Header';
-import Footer from '../../layout/Footer/Footer';
+import Header from '../../Layout/Header/Header';
+import Footer from '../../Layout/Footer/Footer';
 import Login from '../../layout/Login/Login';
 import { useDispatch, useSelector } from 'react-redux';
 import LoadingAnimation from '../../components/Animation/LoadingAnimation';

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import BookedFlights from '../../layout/BookedFlights/BookedFlights';
-import Footer from '../../layout/Footer/Footer';
-import Header from '../../layout/Header/Header';
+import Footer from '../../Layout/Footer/Footer';
+import Header from '../../Layout/Header/Header';
 import Profile from '../../layout/Profile/Profile';
 import { jwtDecode } from 'jwt-decode';
 
